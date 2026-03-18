@@ -25,6 +25,26 @@ Behaviors
 Pain points
 Motivation
 
+## Problem statements:
+
+Health & Fitness App – Problem Statements
+1.
+
+“Busy individuals need a way to quickly access and track their daily fitness activities because complex app layouts and time constraints make it difficult, which results in inconsistent workout habits.”
+
+2.
+
+“Beginner users need a way to follow guided workouts with clear instructions and progress tracking because they lack fitness knowledge, which results in low motivation and early drop-off.”
+
+ E-Commerce Website – Problem Statements
+1.
+
+“Online shoppers need a way to easily browse and find relevant products because cluttered layouts and too many options overwhelm them, which results in abandoned purchases.”
+
+2.
+
+“Customers need a simple and trustworthy checkout process because complicated payment steps and unclear order details create confusion, which results in cart abandonment.”
+
 ## Output:
 <img width="1536" height="1024" alt="ChatGPT Image Mar 17, 2026, 11_18_28 AM" src="https://github.com/user-attachments/assets/67e22396-5808-424d-8ad4-0a9ce1455eba" />
 
